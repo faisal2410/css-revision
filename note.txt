@@ -1,0 +1,39 @@
+purpose
+simplicity
+symetry
+color-primary-emotion-audience
+alignment
+whitespace
+gap
+typography
+
+
+uicolorpicker
+
+#FF9F4A
+#FF3C83
+#FF9F4A #FF3C83
+
+themeforest
+freepik
+flaticon
+iconfinder
+unsplash
+dribble
+behance
+awwards.com
+figma.com
+figma resources
+figma community
+specificity calculator
+css variable
+css custom property
+css function
+:root{
+--main-color
+-dark-border
+--side-width
+}
+var(--main-color)
+calc(100%- var(--side-width)
+
